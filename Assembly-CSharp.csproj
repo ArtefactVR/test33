@@ -689,19 +689,19 @@
  <HintPath>C:/Program Files/Unity2017.3.1p1/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="AjaxMin">
- <HintPath>D:/Contest/test33/Assets/Babylon/Plugins/AjaxMin.dll</HintPath>
+ <HintPath>C:/Users/jdriver/Documents/GitHub/test33/Assets/Babylon/Plugins/AjaxMin.dll</HintPath>
  </Reference>
  <Reference Include="MsgPack">
- <HintPath>D:/Contest/test33/Assets/Babylon/Plugins/MsgPack.dll</HintPath>
+ <HintPath>C:/Users/jdriver/Documents/GitHub/test33/Assets/Babylon/Plugins/MsgPack.dll</HintPath>
  </Reference>
  <Reference Include="TerrainBuilder">
- <HintPath>D:/Contest/test33/Assets/Babylon/Plugins/TerrainBuilder.dll</HintPath>
+ <HintPath>C:/Users/jdriver/Documents/GitHub/test33/Assets/Babylon/Plugins/TerrainBuilder.dll</HintPath>
  </Reference>
  <Reference Include="FreeImageNet">
- <HintPath>D:/Contest/test33/Assets/Babylon/Plugins/Utilities/FreeImageNet.dll</HintPath>
+ <HintPath>C:/Users/jdriver/Documents/GitHub/test33/Assets/Babylon/Plugins/Utilities/FreeImageNet.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>D:/Contest/test33/Assets/HoloToolkit/Utilities/Scripts/GLTF/Plugins/JsonNet/Newtonsoft.Json.dll</HintPath>
+ <HintPath>C:/Users/jdriver/Documents/GitHub/test33/Assets/HoloToolkit/Utilities/Scripts/GLTF/Plugins/JsonNet/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Users/jdriver/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
